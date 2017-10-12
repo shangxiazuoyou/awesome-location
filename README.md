@@ -1,2 +1,1 @@
-# awesome-location
-收集各大地图定位库
+- [LocGetter](https://github.com/titanium-codes/LocGetter) -Simple library for reactive getting user locations
