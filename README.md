@@ -9,3 +9,5 @@
 - [GeoFirebase](https://github.com/cutiko/GeoFirebase) -A simple demos of how to connect firebase and google maps
 
 - [SimpleLocationGetter](https://github.com/Skullper/SimpleLocationGetter)
+
+- [android-place-picker](https://github.com/stephenbaidu/android-place-picker) -Android PlacePicker similar to that of Google Maps' location search
