@@ -11,3 +11,13 @@
 - [SimpleLocationGetter](https://github.com/Skullper/SimpleLocationGetter)
 
 - [android-place-picker](https://github.com/stephenbaidu/android-place-picker) -Android PlacePicker similar to that of Google Maps' location search
+
+- [android-maps-utils](https://github.com/googlemaps/android-maps-utils) -Handy extensions to the Google Maps Android API
+
+- [MapLocation](https://github.com/Sishin/MapLocation) -Map Like Uber app
+
+- [UpdatableMap](https://github.com/leandroBorgesFerreira/UpdatableMap) -Map for tracking apps (Like: Uber, Cabify...)
+
+- [Map](https://github.com/ANKBAVISHI/Map) -Map Integration,Show current location on map,add marker by tapping on map,google places search
+
+- [MotionVehicleTracker](https://github.com/frankodoom/MotionVehicleTracker) -This is a basic implementation of Location Tracker using Google Maps Api
