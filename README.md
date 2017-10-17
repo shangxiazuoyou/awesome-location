@@ -21,3 +21,5 @@
 - [Map](https://github.com/ANKBAVISHI/Map) -Map Integration,Show current location on map,add marker by tapping on map,google places search
 
 - [MotionVehicleTracker](https://github.com/frankodoom/MotionVehicleTracker) -This is a basic implementation of Location Tracker using Google Maps Api
+
+- [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) -Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum
