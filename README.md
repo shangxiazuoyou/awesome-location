@@ -25,3 +25,5 @@
 - [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) -Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum
 
 - [LocationAware](https://github.com/Arjun-sna/LocationAware)
+
+- [smart-location-lib](https://github.com/mrmans0n/smart-location-lib)
